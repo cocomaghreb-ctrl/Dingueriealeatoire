@@ -1,0 +1,20 @@
+# Configuration DinguerieLoot
+
+# Intervalle en secondes entre chaque distribution d'items
+interval-seconds: 30
+
+# Messages
+messages:
+  start: "§6[BILAL] §aLe loot aléatoire a commencé! Un item tous les 30 secondes!"
+  stop: "§6[BILAL] §cLe loot aléatoire s'est arrêté."
+  item-distributed: "§6[BILAL] §bVous recevez: §f%item%"
+  already-running: "§6[BILAL] §cLe loot est déjà en cours!"
+  not-running: "§6[BILAL] §cLe loot n'est pas en cours!"
+  excluded: "§6[BILAL] §e%item% §a a été ajouté à la liste d'exclusion"
+  included: "§6[BILAL] §e%item% §a a été réintégré à la liste"
+  no-item-hand: "§6[BILAL] §cVous devez tenir un item en main!"
+  already-excluded: "§6[BILAL] §cCet item est déjà exclu!"
+  not-excluded: "§6[BILAL] §cCet item n'est pas exclu!"
+  list-excluded: "§6[BILAL] §bItems exclus: §f%items%"
+  scoreboard-title: "§6§lLOOT ALÉATOIRE"
+  scoreboard-timer: "Temps restant"
